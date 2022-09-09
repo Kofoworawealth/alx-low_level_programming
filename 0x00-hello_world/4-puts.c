@@ -3,7 +3,7 @@
 /**
  * main - output in c
  * 
- * Return: always 0 (correct)
+ * Return:Always 0 (correct)
  */
  int main(void)
  {
