@@ -1,7 +1,7 @@
 #include <stdio.h>
 
 /**
- * main - output in c
+ * main-output in c
  * 
  * Return:Always 0 (correct)
  */
