@@ -1,5 +1,5 @@
-#ifndef 
-#define 
+#ifndef _mj_H_ 
+#define _mj_H_
 
 int _putchar(char c);
 void print_alphabet(void);
