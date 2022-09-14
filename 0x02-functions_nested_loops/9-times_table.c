@@ -22,7 +22,9 @@ void times_table(void)
 			_putchar(b + '0');
 
 			/* Don't print commas after the 10th column */
-			if (y != 9)																															{
+			if (y != 9)
+			{
+			
 				_putchar(',');
 				_putchar(' ');
 			}
