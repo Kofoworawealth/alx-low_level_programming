@@ -2,7 +2,7 @@
 #include <stdlib.h>
 
  /**
-  * main - this is a function to multiply two numbers
+  * main - program to multiply two numbers
   * @argc: argc param
   * @argv: an array of a command listed
   * Return: 0 for success
