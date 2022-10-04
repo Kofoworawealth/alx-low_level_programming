@@ -17,7 +17,7 @@ int count_words(char *str)
 
 	while (*(str + i))
 	{
-		if ((*(str + i) == ' ' || *(str + i +1) == 0) && flagbs)
+		if ((*(str + i) == ' ' || *(str + i + 1) == 0) && flagbs)
 		{
 			flagbs = 0;
 			words++;
