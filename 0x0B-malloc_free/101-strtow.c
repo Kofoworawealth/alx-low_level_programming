@@ -71,7 +71,6 @@ void look_pos(char *str, int *pos)
 		i++;
 	}
 }
-
 /**
  * print_words - function that stores in m the words found in str
  * Return: 1 if fail.
